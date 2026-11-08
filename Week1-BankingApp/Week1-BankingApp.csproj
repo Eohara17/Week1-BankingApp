@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\eoino\OneDrive\Documents\Comp Sci\Week1-BankingApp.cs" Link="Week1-BankingApp.cs" />
+  </ItemGroup>
+
 </Project>
